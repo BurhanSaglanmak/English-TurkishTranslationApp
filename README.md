@@ -1,5 +1,5 @@
-English - Turkish
-[(LIVE)](https://english-translation-app.netlify.app/)
+# English - Turkish
+# [(LIVE)](https://english-translation-app.netlify.app/)
 
 ![Ekran görüntüsü 2024-03-15 151950](https://github.com/BurhanSaglanmak/Englishtranslationapp/assets/104764065/7c652836-6286-4d02-bef2-60c13d77060f)
 
