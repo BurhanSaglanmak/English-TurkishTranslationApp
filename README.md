@@ -1,7 +1,7 @@
 # English - Turkish
 # [(LIVE)](https://english-translation-app.netlify.app/)
 
-![Ekran görüntüsü 2024-03-15 151950](https://github.com/BurhanSaglanmak/Englishtranslationapp/assets/104764065/7c652836-6286-4d02-bef2-60c13d77060f)
+![Ekran görüntüsü 2024-06-22 125104](https://github.com/BurhanSaglanmak/English-TurkishTranslationApp/assets/104764065/98323e39-18bb-4c82-ad18-8de2a3393e74)
 
 
 # Getting Started with Create React App
